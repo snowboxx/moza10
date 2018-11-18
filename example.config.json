@@ -1,9 +1,9 @@
 {
     "port": 8100,
     "passphrase": "key",
-    "guild": "guild.id",
+    "guild": "513387484135161857",
     "bots": [{
-        "channel": "channel.name",
-        "token": "bot.token"
+        "channel": "ingame-chat",
+        "token": "NTEzNTQ3Nzk0MjI5NzU1OTA1.DtJmVg.F_DX1gmG6fgwHq7AzeJu1x1sA5s"
     }]
 }
